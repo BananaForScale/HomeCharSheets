@@ -1,5 +1,5 @@
 {
-  "info": {
+  "details": {
     "name": "",
     "player": {
       "name": "",
@@ -24,11 +24,74 @@
     ]
   },
   "ability": {
-    "str": 0,
-    "dex": 0,
-    "con": 0,
-    "int": 0,
-    "wis": 0,
-    "cha": 0
+    "str": {
+      "base": 0,
+      "enhance": 0,
+      "misc": 0,
+      "temp": 0
+    },
+    "dex": {
+      "base": 0,
+      "enhance": 0,
+      "misc": 0,
+      "temp": 0
+    },
+    "con": {
+      "base": 0,
+      "enhance": 0,
+      "misc": 0,
+      "temp": 0
+    },
+    "int": {
+      "base": 0,
+      "enhance": 0,
+      "misc": 0,
+      "temp": 0
+    },
+    "wis": {
+      "base": 0,
+      "enhance": 0,
+      "misc": 0,
+      "temp": 0
+    },
+    "cha": {
+      "base": 0,
+      "enhance": 0,
+      "misc": 0,
+      "temp": 0
+    }
+  },
+  "classes": [
+    {
+      "name": "",
+      "hp": 0,
+      "bab": 0,
+      "skill": 0,
+      "fort": 0,
+      "ref": 0,
+      "will": 0,
+      "levels": 0,
+      "hp": 0
+    }
+  ],
+  "currency": {
+    "cp": 0,
+    "sp": 0,
+    "gp": 0,
+    "pp": 0
+  },
+  "xp": {
+    "current": 0,
+    "toNext": 2000
+  },
+  "fame": {
+    "total": 0,
+    "currentPrestige": 0
+  },
+  "hp": {
+    "current": 0,
+    "max": 0,
+    "temp": 0,
+    "nonLethal": 0
   }
 }

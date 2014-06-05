@@ -93,5 +93,24 @@
     "max": 0,
     "temp": 0,
     "nonLethal": 0
+  },
+  "armor": {
+    "ac": {
+      "total": 0,
+      "armor": 0,
+      "shield": 0,
+      "dex": 0,
+      "size": 0,
+      "dodge": 0,
+      "natural": 0,
+      "deflect": 0,
+      "misc": 0,
+      "temp": 0
+    },
+    "touch": 0,
+    "flatFooted": 0,
+    "acp": 0,
+    "maxDex": 0,
+    "spellFail": 0.00
   }
 }

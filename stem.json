@@ -1,117 +1,110 @@
 {
-  "details": {
-    "name": "",
-    "player": {
-      "name": "",
-      "id": ""
+    "name" : "Barnabus",
+    "player" : "Henry",
+    "race" : "Human",
+    "size" : 0,
+    "gender" : "Male",
+    "age" : 67,
+    "alignment" : "Unlawful Good",
+    "deity" : "",
+    "height" : "6ft 2in",
+    "weight" : "165 lbs",
+    "hair" : "brown",
+    "eyes" : "green",
+    "skin" : "white",
+    "homeland" : "The Callipygian Coast",
+    "background" : "Pirate",
+    "ocupation" : "Mayor",
+    "languages" : [
+        "common"
+    ],
+    "str" : {
+        "base" : 0,
+        "enhance" : 0,
+        "misc" : 0,
+        "temp" : 0
     },
-    "race": "",
-    "size": 0,
-    "gender": "",
-    "age": 0,
-    "alignment": "",
-    "deity": "",
-    "height": "",
-    "weight": "",
-    "hair": "",
-    "eyes": "",
-    "skin": "",
-    "homeland": "",
-    "background": "",
-    "ocupation": "",
-    "languages": [
-      "common"
-    ]
-  },
-  "ability": {
-    "str": {
-      "base": 0,
-      "enhance": 0,
-      "misc": 0,
-      "temp": 0
+    "dex" : {
+        "base" : 0,
+        "enhance" : 0,
+        "misc" : 0,
+        "temp" : 0
     },
-    "dex": {
-      "base": 0,
-      "enhance": 0,
-      "misc": 0,
-      "temp": 0
+    "con" : {
+        "base" : 0,
+        "enhance" : 0,
+        "misc" : 0,
+        "temp" : 0
     },
-    "con": {
-      "base": 0,
-      "enhance": 0,
-      "misc": 0,
-      "temp": 0
+    "int" : {
+        "base" : 0,
+        "enhance" : 0,
+        "misc" : 0,
+        "temp" : 0
     },
-    "int": {
-      "base": 0,
-      "enhance": 0,
-      "misc": 0,
-      "temp": 0
+    "wis" : {
+        "base" : 0,
+        "enhance" : 0,
+        "misc" : 0,
+        "temp" : 0
     },
-    "wis": {
-      "base": 0,
-      "enhance": 0,
-      "misc": 0,
-      "temp": 0
+    "cha" : {
+        "base" : 0,
+        "enhance" : 0,
+        "misc" : 0,
+        "temp" : 0
     },
-    "cha": {
-      "base": 0,
-      "enhance": 0,
-      "misc": 0,
-      "temp": 0
+    "classes" : [
+        {
+            "name" : "",
+            "hp" : 0,
+            "bab" : 0,
+            "skill" : 0,
+            "fort" : 0,
+            "ref" : 0,
+            "will" : 0,
+            "levels" : 0,
+            "hp" : 0
+        }
+    ],
+    "currency" : {
+        "cp" : 0,
+        "sp" : 0,
+        "gp" : 0,
+        "pp" : 0
+    },
+    "xp" : {
+        "current" : 0,
+        "toNext" : 2000
+    },
+    "hp" : {
+        "current" : 0,
+        "max" : 0,
+        "temp" : 0,
+        "nonLethal" : 0
+    },
+    "armor" : {
+        "ac" : {
+            "size" : 0,
+            "dodge" : 0,
+            "natural" : 0,
+            "deflect" : 0,
+            "misc" : 0,
+            "temp" : 0
+        },
+        "touch" : {
+            "size" : 0,
+            "dodge" : 0,
+            "deflect" : 0,
+            "misc" : 0,
+            "temp" : 0
+        },
+        "flatFooted" : {
+            "size" : 0,
+            "natural" : 0,
+            "deflect" : 0,
+            "misc" : 0,
+            "temp" : 0
+        }
     }
-  },
-  "classes": [
-    {
-      "name": "",
-      "hp": 0,
-      "bab": 0,
-      "skill": 0,
-      "fort": 0,
-      "ref": 0,
-      "will": 0,
-      "levels": 0,
-      "hp": 0
-    }
-  ],
-  "currency": {
-    "cp": 0,
-    "sp": 0,
-    "gp": 0,
-    "pp": 0
-  },
-  "xp": {
-    "current": 0,
-    "toNext": 2000
-  },
-  "hp": {
-    "current": 0,
-    "max": 0,
-    "temp": 0,
-    "nonLethal": 0
-  },
-  "armor": {
-    "ac": {
-      "size": 0,
-      "dodge": 0,
-      "natural": 0,
-      "deflect": 0,
-      "misc": 0,
-      "temp": 0
-    },
-    "touch": {
-      "size": 0,
-      "dodge": 0,
-      "deflect": 0,
-      "misc": 0,
-      "temp": 0
-    },
-    "flatFooted": {
-      "size": 0,
-      "natural": 0,
-      "deflect": 0,
-      "misc": 0,
-      "temp": 0
-    }
-  }
 }

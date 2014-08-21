@@ -1,0 +1,10 @@
+<div id='footer'>
+  Generated <abbr class='timeago' title='{{ site.time | date_to_xmlschema }}'>{{ site.time | date: "%B %-d, %Y" }}</div>
+</div>
+</body>
+</html>
+<script>
+$(document).ready(function() {
+  $("abbr.timeago").timeago();
+});
+</script>
